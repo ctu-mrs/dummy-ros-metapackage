@@ -12,11 +12,11 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <depend>mrs_dummy_package</depend>
-  <depend>mrs_dummy2_package</depend>
-  <depend>mrs_dummy3_package</depend>
-  <depend>mrs_dummy4_package</depend>
-  <depend>mrs_dummy5_package</depend>
+  <exec_depend>mrs_dummy_package</exec_depend>
+  <exec_depend>mrs_dummy2_package</exec_depend>
+  <exec_depend>mrs_dummy3_package</exec_depend>
+  <exec_depend>mrs_dummy4_package</exec_depend>
+  <exec_depend>mrs_dummy5_package</exec_depend>
 
   <export>
     <metapackage/>
